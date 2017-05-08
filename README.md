@@ -1,1 +1,1 @@
-# DBSCAN_Ophiuchus-Scorpius
+# DBSCAN Ophiuchus-Scorpius
