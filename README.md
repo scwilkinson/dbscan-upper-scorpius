@@ -1,1 +1,1 @@
-# Clustering Analysis of Ophiuchus-Scorpius using DBSCAN
+# Clustering Analysis of Upper Scorpius using DBSCAN
